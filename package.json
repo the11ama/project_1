@@ -1,0 +1,29 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "Project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the11ama/project_1.git"
+  },
+  "keywords": [
+    "ERS"
+  ],
+  "author": "James Walls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the11ama/project_1/issues"
+  },
+  "homepage": "https://github.com/the11ama/project_1#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  }
+}
